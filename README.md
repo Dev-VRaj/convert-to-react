@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Website
 
 In this project I converted an already existing normal website into a react one.
 
